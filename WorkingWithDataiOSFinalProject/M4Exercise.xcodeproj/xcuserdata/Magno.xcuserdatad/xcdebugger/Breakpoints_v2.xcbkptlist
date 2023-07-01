@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "79550D36-9F6E-4D35-814F-95E451AD148B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC64BA47-F360-4A39-ACFD-DCC2B6217463"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63986716-FB3A-4F32-873D-BF529FC479C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63986716-FB3A-4F32-873D-BF529FC479C9 - 584eabdad15c293c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Magno/Documents/Swift/WorkingWithDataiOSFinalProject/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "63986716-FB3A-4F32-873D-BF529FC479C9 - 3c54176ee870ab33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Magno/Documents/Swift/WorkingWithDataiOSFinalProject/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37762908-1350-4F97-B629-C0C25DEEDF19"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
